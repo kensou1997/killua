@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-image: url('anime.jpg') ;
+}
+
+.form-registro{
+    width: 400px;
+    background: #162d4b;
+    padding: 30px;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    color: white;
+    box-shadow: 7px 13px 37px #000;
+}
+.form-registro h4 {
+    font-size: 22px;
+    margin-bottom: 20px;
+}
+.controls {
+    width: 100%;
+    background: #24303c;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    border: 2px solid #91a7d6;
+    font-family: 'calibri';
+    font-size: 18px;
+    color: white;
+
+}
+.form-registro p{
+    text-align: center;
+    font-size: 18;
+}
+.form-registro a:hover{
+    color: white;
+    text-decoration: underline;
+
+}
+.form-registro .botons {
+    width: 70%;
+    background: #1f53c5;
+    border: 20px;
+    padding: 6px;
+    color: white;
+    margin: 16px 0;
+    font-size: 16px;
+}
+.brand img{
+    width: 100px;
+    height: 75px;
+}
